@@ -1,21 +1,26 @@
 # Project Management Course Repository
 
+## Course Info
+Student: Kritika Singh
+Course: IS 594 Project Management
+Professor: Bradly Alicea
+Semester: Fall 2025
+
 This repository contains my assignments, notes, and deliverables for the Project Management course at the University of Illinois Urbana-Champaign.
 
 ## Structure
-- **assignments/** – Project deliverables for each term milestone
+- **Assignments/** – Project deliverables for each term milestone
 - **project_docs/** – Planning templates, process documentation
-- **reflections/** – Weekly reflections and self-assessments
 - **resources/** – References and supporting materials
+
+## Project Board
+Github Project - https://github.com/users/kritikasingh62/projects/1/views/1
 
 ## Tools Used
 - Git & GitHub for version control
-- Excel / Gantt charts for scheduling
+- Project Boards for scheduling
 - Markdown for documentation
 
 ## Version Control Practices
 - Commit messages follow the format: `<verb>: <short description>`  
-  Examples:  
-  - `add: initial project proposal`  
-  - `update: revised Gantt chart after feedback`
-- Each milestone has a separate branch before merging into `main`
+- In progress milestone has a separate branch before merging into `main`
