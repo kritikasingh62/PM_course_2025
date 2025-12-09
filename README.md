@@ -11,7 +11,7 @@ This repository contains my assignments, notes, and deliverables for the Project
 ## Structure
 - **Assignments/** – Project deliverables for each term milestone
 - **project_docs/** – Planning templates, process documentation
-- **resources/** – References and supporting materials
+- **resources/** – References and syllabus materials
 
 ## Project Board
 Github Project - https://github.com/users/kritikasingh62/projects/1/views/1
