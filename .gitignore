@@ -1,0 +1,10 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Office backups
+~$*.docx
+~$*.xlsx
+
+# VS Code
+.vscode/
