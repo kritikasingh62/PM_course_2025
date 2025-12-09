@@ -1,10 +1,10 @@
 # Project Management Course Repository
 
 ## Course Info
-Student: Kritika Singh
-Course: IS 594 Project Management
-Professor: Bradly Alicea
-Semester: Fall 2025
+- Student: Kritika Singh
+- Course: IS 594 Project Management
+- Professor: Bradly Alicea
+- Semester: Fall 2025
 
 This repository contains my assignments, notes, and deliverables for the Project Management course at the University of Illinois Urbana-Champaign.
 
